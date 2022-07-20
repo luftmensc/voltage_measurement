@@ -1,4 +1,4 @@
-float resistor_cons = 5.5;
+float resistor_cons = 5.46;
 float arduino_cons = 0.0048875855327468;
 #include <SoftwareSerial.h> 
 
